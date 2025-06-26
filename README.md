@@ -18,3 +18,6 @@ The core objective of this work was to implement and train an intelligent agent 
 + Conducted multiple training episodes to iteratively refine the agent's decision-making capabilities through reward-based learning.
 
 ## Connection to Computer Science 
++ *Whar do computer scientists do, and why doe it matter?*
+Computer Scientists design and implement algorithms that solve real-world problems efficiently and reliably. They analyze complex systems, develop software, and leverage computational thinking to build intelligent technologies. This work is foundational to innovations in fields such as healthcarem robotics, autonomous systems, and finance. In this project, I applied machine learning principles to train an autonomous agent–a microcosm of how computer science powers intelligent behavior in largers systems.
++ 
