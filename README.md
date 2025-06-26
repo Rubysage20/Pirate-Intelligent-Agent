@@ -21,7 +21,7 @@ The core objective of this work was to implement and train an intelligent agent 
 + *What do computer scientists do, and why doe it matter?*
 - Computer Scientists design and implement algorithms that solve real-world problems efficiently and reliably. They analyze complex systems, develop software, and leverage computational thinking to build intelligent technologies. This work is foundational to innovations in fields such as healthcarem robotics, autonomous systems, and finance. In this project, I applied machine learning principles to train an autonomous agent–a microcosm of how computer science powers intelligent behavior in largers systems.
   
-+ *How do I approach problems as a computer scientist?*
++ ###### *How do I approach problems as a computer scientist?*
 - A computer scientist approaches problems with a systematic methodology:
   1. *Problem Decomposition* breaking the problem into solvable components.
   2. *Abstraction* identifying essential details and modeling the system efficiently.
@@ -29,7 +29,7 @@ The core objective of this work was to implement and train an intelligent agent 
   4. *Evaluation and Iteration* testing and refining solutions using metrics such as accuracy, loss, or convergence rate.
 In this project, the problem of pathfinding was abstracted into states and actions, and solved using an iterative learning algorithm (DQN) that required parameter tuning and debugging.
 
-+ *What are my ethical responsibilities to users and organizations?*
++ ####### *What are my ethical responsibilities to users and organizations?*
 - Ethical considerations are essential in developing AI systems. My responsibilities include:
   + *Ensuring Fairness and Safety* AI systems must not produce harmful or biased outcomes. Although this simulation was benigh, similar models in real applications must be carefully audited.
   + *Transparency and Accountability* Clear documentation and explainable models help stakeholders trust and understand AI behavior.
