@@ -11,7 +11,7 @@ The core objective of this work was to implement and train an intelligent agent 
 + **GameExperience.py:** Handles the storage of experience replay data(episodes), crucial for training the reinforcement learning model.
 + **Jupter notebook framwork:** Contained the environment setup, visualizations, and placeholders for model training logic.
 
-### Code Developed Independently
+#### *Code Developed Independently*
 + Implemented the Deep Q-Network (DQN) architecture using Keras, including input, hidden, and output layers appropriate for the maze environment.
 + Developed the action-selection logic using an epsilon-greedy strategy to balance exploration and exploitation.
 + Implemented the *remember()*,*replay()*, and "train()* functions to enable the agent to learn from its experiences and update its policy accordingly.
