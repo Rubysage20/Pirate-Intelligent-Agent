@@ -6,5 +6,6 @@ This project explores the implementation of a reinforcment learning-based intell
 The core objective of this work was to implement and train an intelligent agent capable of decision-making through trial-and-error learning, utilizing neural neural networks to estimate the expected utility (Q-values) of taking particular actions in specific states. 
 
 ## Code Contributions 
-#### Provided Code: 
+#### *Provided Code:*
++
 
