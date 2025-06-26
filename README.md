@@ -7,7 +7,7 @@ The core objective of this work was to implement and train an intelligent agent 
 
 ## Code Contributions 
 #### *Provided Code:*
-+ ** TreasureMaze.py: ** Defined the environment structure, including maze layout, starting position, and treasure location. It served as the foundation for modeling the agent's interaction space.
-+ ** GameExperience.py: ** Handles the storage of experience replay data(episodes), crucial for training the reinforcement learning model.
-+ **Jupter notebook framwork: **
++ **TreasureMaze.py:** Defined the environment structure, including maze layout, starting position, and treasure location. It served as the foundation for modeling the agent's interaction space.
++ **GameExperience.py:** Handles the storage of experience replay data(episodes), crucial for training the reinforcement learning model.
++ **Jupter notebook framwork:**
 
